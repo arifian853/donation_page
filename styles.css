@@ -72,6 +72,11 @@ body {
     margin-top: 7px;
 }
 
+.crypto-logo {
+    height: 35px;
+    width: 35px;
+    margin: 7px;
+}
 
 /*MOBILE*/
 @media screen and (max-width: 768px) {
