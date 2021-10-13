@@ -1,2 +1,4 @@
-# donation_page
-Page for donating me some coffee or something.
+# payment_page
+Page for simple QR Code payment with multiple choice
+
+With E- Wallet, Cryptocurrency, or Bank Transfer
